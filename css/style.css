@@ -8,7 +8,7 @@ body {
 }
 
 .img1 {
-    margin-left: 13rem;
+    margin-left: 10rem;
     height: 1.7rem;
     width: 1.7rem;
     padding-right: 1rem;
@@ -24,7 +24,8 @@ body {
 }
 
 .sub-nav {
-    margin-left: 1rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
     border: #dedede 0.1rem solid;
     border-left: #dedede 0.1rem solid;
     border-radius: 19px;
@@ -54,4 +55,25 @@ body {
 
 .svg1 {
     margin-right: 0.5rem;
+}
+
+.sub-nav1 {
+    display: flex;
+    margin-left: 0.7rem;
+    margin-right: 2.5rem;
+}
+
+.p1 {
+    margin-left: 2rem;
+}
+
+.p2 {
+    color: #ff6862;
+    margin-left: 2rem;
+}
+
+.line {
+    height: 4.5rem;
+    width: 0.01rem;
+    background-color: #dedede;
 }
