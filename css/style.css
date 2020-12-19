@@ -5,7 +5,7 @@ body {
 .nav-bar {
     display: flex;
     align-items: center;
-    border-bottom: #dedede 0.1rem solid;
+    /* border-bottom: #dedede 0.1rem solid; */
 }
 
 .img1 {
@@ -67,9 +67,51 @@ body {
     margin-left: 2rem;
 }
 
+.p1:hover {
+    cursor: pointer;
+    margin-top: -0.2rem;
+    transition: 0.3s;
+}
+
 .p2 {
+    margin-left: 2rem;
+}
+
+.p2:hover {
+    cursor: pointer;
+    margin-top: -0.2rem;
+    transition: 0.3s;
+}
+
+.p3 {
+    margin-left: 2rem;
+}
+
+.p3:hover {
+    cursor: pointer;
+    margin-top: -0.2rem;
+    transition: 0.3s;
+}
+
+.p4 {
+    margin-left: 2rem;
+}
+
+.p4:hover {
+    cursor: pointer;
+    margin-top: -0.2rem;
+    transition: 0.3s;
+}
+
+.p5 {
     color: #ff6862;
     margin-left: 2rem;
+}
+
+.p5:hover {
+    cursor: pointer;
+    margin-top: -0.2rem;
+    transition: 0.3s;
 }
 
 .line {
@@ -84,7 +126,9 @@ body {
     margin-right: 2rem;
 }
 
-.svg2 {
+.svg2,
+.svg3,
+.svg4 {
     margin-left: 2rem;
 }
 
@@ -98,9 +142,27 @@ body {
     margin-left: 1.5rem;
 }
 
-
-/* .line2 {
-    width: 4.5rem;
-    height: : 0.01rem;
+.line1 {
     background-color: #dedede;
-} */
+    width: 85.2rem;
+    height: 0.01rem;
+    margin-top: -0.1rem;
+}
+
+.svg2:hover {
+    cursor: pointer;
+    margin-top: -0.4rem;
+    transition: 0.3s;
+}
+
+.svg3:hover {
+    cursor: pointer;
+    margin-top: -0.4rem;
+    transition: 0.3s;
+}
+
+.svg4:hover {
+    cursor: pointer;
+    margin-top: -0.4rem;
+    transition: 0.4s;
+}
