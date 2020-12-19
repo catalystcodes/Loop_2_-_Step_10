@@ -65,6 +65,7 @@ body {
 
 .p1 {
     margin-left: 2rem;
+    color: #575757;
 }
 
 .p1:hover {
@@ -75,6 +76,7 @@ body {
 
 .p2 {
     margin-left: 2rem;
+    color: #575757;
 }
 
 .p2:hover {
@@ -85,6 +87,7 @@ body {
 
 .p3 {
     margin-left: 2rem;
+    color: #575757;
 }
 
 .p3:hover {
@@ -95,6 +98,7 @@ body {
 
 .p4 {
     margin-left: 2rem;
+    color: #575757;
 }
 
 .p4:hover {
@@ -165,4 +169,45 @@ body {
     cursor: pointer;
     margin-top: -0.4rem;
     transition: 0.4s;
+}
+
+.nav2 {
+    margin-top: 0.7rem;
+    margin-left: 7rem;
+    display: flex;
+    font-size: smaller;
+    font-weight: lighter;
+}
+
+.p7,
+.p8,
+.p9 {
+    margin-left: 2.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.8rem;
+    color: #a0a0a0;
+}
+
+.p6 {
+    margin-left: 2.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.8rem;
+    border-bottom: #5eb5e6 0.15rem solid;
+}
+
+.p7:hover {
+    cursor: pointer;
+    border-bottom: #5eb5e6 0.15rem solid;
+}
+
+.p8:hover {
+    cursor: pointer;
+    border-bottom: #5eb5e6 0.15rem solid;
+}
+
+.p9:hover {
+    cursor: pointer;
+    border-bottom: #5eb5e6 0.15rem solid;
 }
