@@ -5,6 +5,7 @@ body {
 .nav-bar {
     display: flex;
     align-items: center;
+    border-bottom: #dedede 0.1rem solid;
 }
 
 .img1 {
@@ -14,7 +15,6 @@ body {
     padding-right: 1rem;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
-    border-right: #dedede 0.1rem solid;
 }
 
 .input1 {
@@ -87,3 +87,20 @@ body {
 .svg2 {
     margin-left: 2rem;
 }
+
+.img2 {
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+}
+
+.sub-nav3 {
+    margin-left: 1.5rem;
+}
+
+
+/* .line2 {
+    width: 4.5rem;
+    height: : 0.01rem;
+    background-color: #dedede;
+} */
