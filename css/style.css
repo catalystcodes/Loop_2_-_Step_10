@@ -249,3 +249,35 @@ body {
     font-size: smaller;
     color: #a9a9a0;
 }
+
+.button {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: -2rem;
+}
+
+.b2 {
+    background-color: #5eb5e6;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    padding: 0.5rem 3.4rem;
+    color: white;
+}
+
+.b3 {
+    margin-top: 0.7rem;
+    background-color: white;
+    border: #5eb5e6 0.1rem solid;
+    color: #5eb5e6;
+    border-radius: 15px;
+    outline: none;
+    padding: 0.3rem 2.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.svg5 {
+    margin-left: 0.2rem;
+}
