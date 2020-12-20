@@ -1,11 +1,12 @@
 body {
     font-family: sans-serif;
+    background-color: #f6f8f9;
 }
 
 .nav-bar {
     display: flex;
     align-items: center;
-    /* border-bottom: #dedede 0.1rem solid; */
+    background-color: white;
 }
 
 .img1 {
@@ -172,11 +173,13 @@ body {
 }
 
 .nav2 {
-    margin-top: 0.7rem;
-    margin-left: 7rem;
+    margin-top: 0.1rem;
+    padding-top: 0.6rem;
+    padding-left: 7rem;
     display: flex;
     font-size: smaller;
     font-weight: lighter;
+    background-color: white;
 }
 
 .p7,
@@ -232,6 +235,4 @@ body {
     /* padding-top: 2rem; */
 }
 
-.sub-head2 {
-    height: -0.2rem;
-}
+.sub-head2 {}
