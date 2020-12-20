@@ -219,11 +219,33 @@ body {
     height: 5rem;
     width: 5rem;
     border-radius: 50%;
+    margin-left: 3.5rem;
+    margin-top: 1.5rem;
 }
 
 .head1 {
     margin-top: 1.5rem;
-    margin-left: 9rem;
+    margin-left: 9.5rem;
     background-color: white;
-    width: 14rem;
+    width: 13rem;
+    height: 20rem;
+}
+
+.h1 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    margin-left: 3.5rem;
+}
+
+.p10 {
+    font-size: smaller;
+    margin-left: 2.5rem;
+}
+
+.p11 {
+    margin-top: 0.5rem;
+    margin-left: 2rem;
+    margin-bottom: 0.5rem;
+    font-size: smaller;
+    color: #a9a9a0;
 }
