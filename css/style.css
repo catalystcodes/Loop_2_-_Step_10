@@ -211,3 +211,11 @@ body {
     cursor: pointer;
     border-bottom: #5eb5e6 0.15rem solid;
 }
+
+.img3 {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+}
+
+.sub-head2 {}
