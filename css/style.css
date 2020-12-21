@@ -390,3 +390,21 @@ body {
     color: #aeaaad;
     margin-left: 0.3rem;
 }
+
+.head2 {
+    background-color: white;
+    border: #edf6fc 0.01rem solid;
+    height: 20rem;
+    width: 38rem;
+    margin-left: 2.5rem;
+    margin-top: 1.5rem;
+}
+
+.head3 {
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+}
+
+.whole {
+    display: flex;
+}
