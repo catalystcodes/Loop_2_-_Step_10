@@ -138,8 +138,8 @@ body {
 }
 
 .img2 {
-    height: 2.5rem;
-    width: 2.5rem;
+    height: 2.7rem;
+    width: 2.7rem;
     border-radius: 50%;
 }
 
@@ -407,4 +407,24 @@ body {
 
 .whole {
     display: flex;
+}
+
+.sub1-head3 {
+    display: flex;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.p17 {
+    color: #aeaaad;
+}
+
+.p16 {
+    /* font-size: 1.3rem; */
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+}
+
+.sub2-head3 {
+    margin-left: 0.4rem;
 }
