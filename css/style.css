@@ -429,3 +429,19 @@ body {
 .sub2-head3 {
     margin-left: 0.4rem;
 }
+
+.p18 {
+    font-size: small;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.img4 {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+}
+
+.svg7 {
+    margin-bottom: 0.5rem;
+}
