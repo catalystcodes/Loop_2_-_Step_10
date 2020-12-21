@@ -147,13 +147,6 @@ body {
     margin-left: 1.5rem;
 }
 
-.line1 {
-    background-color: #dedede;
-    width: 85.2rem;
-    height: 0.01rem;
-    margin-top: -0.1rem;
-}
-
 .svg2:hover {
     cursor: pointer;
     margin-top: -0.4rem;
@@ -228,7 +221,7 @@ body {
     margin-left: 9.5rem;
     background-color: white;
     width: 13rem;
-    height: 20rem;
+    height: 30rem;
 }
 
 .h1 {
@@ -254,7 +247,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin-left: -2rem;
+    margin-left: -0.7rem;
 }
 
 .b2 {
@@ -262,8 +255,13 @@ body {
     outline: none;
     border: none;
     border-radius: 15px;
-    padding: 0.5rem 3.4rem;
+    padding: 0.5rem 3.7rem;
     color: white;
+}
+
+.b2:hover {
+    cursor: pointer;
+    background-color: #569fe0;
 }
 
 .b3 {
@@ -273,11 +271,69 @@ body {
     color: #5eb5e6;
     border-radius: 15px;
     outline: none;
-    padding: 0.3rem 2.5rem;
+    padding: 0.3rem 2.6rem;
     display: flex;
     align-items: center;
 }
 
+.b3:hover {
+    cursor: pointer;
+    background-color: #eff6fc;
+}
+
 .svg5 {
     margin-left: 0.2rem;
+}
+
+.line1 {
+    background-color: #dedede;
+    margin-top: 1.5rem;
+    height: 0.01rem;
+    width: 13rem;
+}
+
+.line2 {
+    background-color: #dedede;
+    height: 5rem;
+    width: 0.01rem;
+    /* margin-left: 2.5rem; */
+}
+
+.head1_a {
+    display: flex;
+    align-items: center;
+}
+
+.p12 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+    color: #323938;
+}
+
+.p13 {
+    font-size: small;
+    color: #ccd7e1;
+}
+
+.sub1-head1_a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 1.3rem;
+    padding-right: 1.3rem;
+}
+
+.sub2-head1_a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 1.3rem;
+    padding-right: 1.3rem;
+}
+
+.line3 {
+    background-color: #dedede;
+    height: 0.01rem;
+    width: 13rem;
 }
