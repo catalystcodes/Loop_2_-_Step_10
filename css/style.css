@@ -417,11 +417,12 @@ body {
 
 .p17 {
     color: #aeaaad;
+    font-size: small;
 }
 
 .p16 {
     /* font-size: 1.3rem; */
-    font-weight: bold;
+    font-weight: lighter;
     margin-bottom: 0.3rem;
 }
 
