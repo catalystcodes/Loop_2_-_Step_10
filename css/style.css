@@ -529,3 +529,11 @@ body {
     font-weight: 600;
     margin-top: 0.2rem;
 }
+
+.pics:hover .p21 {
+    text-decoration: underline;
+}
+
+.pics:hover .p22 {
+    text-decoration: underline;
+}
