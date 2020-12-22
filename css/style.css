@@ -511,3 +511,21 @@ body {
     align-items: center;
     justify-content: space-around;
 }
+
+.link1 {
+    text-decoration: none;
+}
+
+.p21 {
+    color: #3c3c3a;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-top: 0.3rem;
+}
+
+.p22 {
+    color: #3c3c3a;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-top: 0.2rem;
+}
