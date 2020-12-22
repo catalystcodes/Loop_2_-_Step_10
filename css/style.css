@@ -394,7 +394,7 @@ body {
 .head2 {
     background-color: white;
     border: #edf6fc 0.01rem solid;
-    height: 20rem;
+    height: 20.5rem;
     width: 38rem;
     margin-left: 2.5rem;
     margin-top: 1.5rem;
@@ -520,7 +520,7 @@ body {
     color: #3c3c3a;
     font-size: 0.9rem;
     font-weight: 600;
-    margin-top: 0.3rem;
+    margin-top: 0.5rem;
 }
 
 .p22 {
@@ -536,4 +536,12 @@ body {
 
 .pics:hover .p22 {
     text-decoration: underline;
+}
+
+.sub2-head2 {
+    background-color: white;
+    border: #edf6fc 0.01rem solid;
+    height: 30rem;
+    width: 38rem;
+    margin-top: 2.5rem;
 }
