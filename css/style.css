@@ -498,5 +498,11 @@ body {
 
 .pics {
     margin-top: 1rem;
-    margin-left: 1rem;
+    /* margin-left: 1rem; */
+}
+
+.whole-pics {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
