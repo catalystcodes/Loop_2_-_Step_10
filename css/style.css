@@ -466,6 +466,11 @@ body {
     border-radius: 50%;
 }
 
+.svg8:hover {
+    cursor: pointer;
+    background-color: #f6f8f9;
+}
+
 .sub1-head2 {
     display: flex;
     align-items: center;
