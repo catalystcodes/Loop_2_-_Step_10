@@ -549,3 +549,24 @@ body {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
+
+.sub4-head2 {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 1.2rem;
+}
+
+.p23 {
+    margin-left: 0.6rem;
+    font-weight: lighter;
+    font-size: large;
+}
+
+.p24 {
+    margin-top: 0.6rem;
+    margin-left: 3.4rem;
+    line-height: 1.3rem;
+    font-size: 0.9rem;
+    color: #3f3f3f;
+}
