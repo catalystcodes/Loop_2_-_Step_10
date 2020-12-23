@@ -570,3 +570,31 @@ body {
     font-size: 0.9rem;
     color: #3f3f3f;
 }
+
+.circle {
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 50%;
+    border: #dedede 0.01rem solid;
+}
+
+.line5 {
+    background-color: #dedede;
+    height: 4rem;
+    width: 0.01rem;
+}
+
+.circle-line {
+    margin-top: 0.6rem;
+    /* margin-left: 1.6rem; */
+    /* height: 10rem;
+    width: 4rem; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+}
+
+.img6 {
+    height: 2.5`rem;
+    width: 7rem;
+}
