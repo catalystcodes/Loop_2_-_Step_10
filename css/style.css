@@ -687,6 +687,7 @@ body {
     display: flex;
     align-items: center;
     margin-left: 3.55rem;
+    margin-top: 1rem;
 }
 
 .p30 {
@@ -703,4 +704,10 @@ body {
     width: 2.7rem;
     border-radius: 50%;
     margin-left: 0.6rem;
+}
+
+.p31 {
+    font-size: 0.9rem;
+    margin-left: 1rem;
+    margin-right: 9rem;
 }
