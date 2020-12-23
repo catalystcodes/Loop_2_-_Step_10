@@ -540,7 +540,7 @@ body {
 .sub2-head2 {
     background-color: white;
     border: #edf6fc 0.01rem solid;
-    height: 45rem;
+    height: 70rem;
     width: 38rem;
     margin-top: 2.5rem;
 }
@@ -654,4 +654,19 @@ body {
     text-decoration: none;
     margin-top: 0.5rem;
     margin-left: -7.4rem;
+}
+
+.a4:hover {
+    text-decoration: underline;
+}
+
+.sub5-head2 {
+    display: flex;
+}
+
+.sub6-head2 {
+    display: flex;
+    align-items: center;
+    margin-top: -1.5rem;
+    margin-left: 1.2rem;
 }
