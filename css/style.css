@@ -670,3 +670,37 @@ body {
     margin-top: -1.5rem;
     margin-left: 1.2rem;
 }
+
+.p29 {
+    font-size: 0.9rem;
+    margin-left: 1rem;
+    margin-right: 7rem;
+}
+
+.p28 {
+    border: #aeaaad 0.1rem solid;
+    padding: 0.5rem 0.5rem;
+    border-radius: 50%;
+}
+
+.circles {
+    display: flex;
+    align-items: center;
+    margin-left: 3.55rem;
+}
+
+.p30 {
+    background-color: #f1f1f1;
+    padding: 1rem 0.7rem;
+    border-radius: 50%;
+    font-size: small;
+    font-weight: bolder;
+    margin-left: 0.6rem;
+}
+
+.img8 {
+    height: 2.7rem;
+    width: 2.7rem;
+    border-radius: 50%;
+    margin-left: 0.6rem;
+}
