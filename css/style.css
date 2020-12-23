@@ -607,7 +607,7 @@ body {
 .img6 {
     height: 2.5rem;
     width: 7rem;
-    margin-top: -1.5rem;
+    margin-top: -2rem;
     margin-left: 16rem;
 }
 
@@ -630,4 +630,25 @@ body {
     text-decoration: none;
     margin-top: 0.5rem;
     margin-left: -32.33rem;
+}
+
+.a3:hover {
+    text-decoration: underline;
+}
+
+.p27 {
+    font-size: 0.9rem;
+    margin-bottom: 3rem;
+    margin-top: 0.5rem;
+    margin-left: 4.5rem;
+}
+
+.img7 {
+    height: 1.5rem;
+    width: 5rem;
+    margin-left: 18.5rem;
+}
+
+.sub5-head2 {
+    display: flex;
 }
