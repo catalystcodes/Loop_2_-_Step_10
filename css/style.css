@@ -540,7 +540,7 @@ body {
 .sub2-head2 {
     background-color: white;
     border: #edf6fc 0.01rem solid;
-    height: 70rem;
+    height: 52rem;
     width: 38rem;
     margin-top: 2.5rem;
 }
@@ -692,9 +692,9 @@ body {
 
 .p30 {
     background-color: #f1f1f1;
-    padding: 1rem 0.7rem;
+    padding: 1rem 0.75rem;
     border-radius: 50%;
-    font-size: small;
+    font-size: 0.7rem;
     font-weight: bolder;
     margin-left: 0.6rem;
 }
@@ -710,4 +710,35 @@ body {
     font-size: 0.9rem;
     margin-left: 1rem;
     margin-right: 9rem;
+}
+
+.sub7-head2 {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 1.2rem;
+}
+
+.sub8-head2 {
+    display: flex;
+    align-items: center;
+    margin-left: 2.8rem;
+    margin-top: 0.5rem;
+}
+
+.p32 {
+    font-size: 0.75rem;
+    font-weight: lighter;
+    padding: 0.5rem 0.5rem;
+    background-color: #f1f1f1;
+    margin-left: 0.5rem;
+    border-radius: 5px;
+}
+
+.sub9-head2 {
+    background-color: white;
+    border: #edf6fc 0.01rem solid;
+    height: 20rem;
+    width: 38rem;
+    margin-top: 1rem;
 }
