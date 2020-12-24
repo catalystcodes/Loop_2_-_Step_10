@@ -754,3 +754,41 @@ body {
 .arrows1 {
     margin-right: 1rem;
 }
+
+.line6 {
+    height: 6rem;
+    width: 0.01rem;
+    background-color: #dedede;
+    margin-top: 1.5rem;
+}
+
+
+/* .line7 {
+    width: 6rem;
+    height: 0.01rem;
+    background-color: #aeaaad;
+}
+
+.line8 {
+    height: 6rem;
+    width: 0.01rem;
+    background-color: #aeaaad;
+} */
+
+.p33 {
+    margin-top: -5.99rem;
+    /* margin-left: 1.5rem; */
+    border-top: #dedede 0.01rem solid;
+    /* border-left: #dedede 0.01rem solid; */
+    border-right: #dedede 0.01rem solid;
+    width: 8rem;
+    padding: 1rem 1rem;
+    font-size: 0.9rem;
+    line-height: normal;
+}
+
+.line9 {
+    height: 0.01rem;
+    width: 38rem;
+    background-color: #dedede;
+}
