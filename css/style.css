@@ -852,3 +852,31 @@ body {
     align-items: center;
     justify-content: space-around;
 }
+
+.svg9 {
+    padding: 0.1rem;
+    border: rgb(12, 12, 12) 0.01rem solid;
+    border-radius: 50%;
+}
+
+.sub17-head2 {
+    display: flex;
+    align-items: center;
+}
+
+.a5 {
+    color: #0b86f2;
+    text-decoration: none;
+}
+
+.a5:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.sub18-head2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 1.5rem;
+}
