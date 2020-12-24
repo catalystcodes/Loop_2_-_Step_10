@@ -297,7 +297,6 @@ body {
     background-color: #dedede;
     height: 5rem;
     width: 0.01rem;
-    /* margin-left: 2.5rem; */
 }
 
 .head1_a {
@@ -421,7 +420,6 @@ body {
 }
 
 .p16 {
-    /* font-size: 1.3rem; */
     font-weight: lighter;
     margin-bottom: 0.3rem;
 }
@@ -502,7 +500,6 @@ body {
 
 .pics {
     margin-top: 1rem;
-    /* margin-left: 1rem; */
 }
 
 .whole-pics {
@@ -595,7 +592,6 @@ body {
     display: flex;
     align-items: center;
     margin-left: 3.3rem;
-    /* margin-top: 0.6rem; */
 }
 
 .circle-line1 {
@@ -738,7 +734,7 @@ body {
 .sub9-head2 {
     background-color: white;
     border: #edf6fc 0.01rem solid;
-    height: 20rem;
+    height: 28rem;
     width: 38rem;
     margin-top: 1rem;
 }
@@ -760,7 +756,6 @@ body {
     width: 0.01rem;
     background-color: #dedede;
     margin-top: 1.5rem;
-    /* padding-left: 1.5rem; */
 }
 
 .line7 {
@@ -772,9 +767,7 @@ body {
 
 .p33 {
     margin-top: -13rem;
-    /* margin-left: 1.5rem; */
     border-top: #dedede 0.01rem solid;
-    /* border-left: #dedede 0.01rem solid; */
     border-right: #dedede 0.01rem solid;
     width: 8rem;
     padding: 1rem 1rem;
@@ -788,12 +781,29 @@ body {
     background-color: #dedede;
 }
 
-.sub11-head2 {
-    /* margin-left: 1rem; */
-}
-
 .sub12-head2 {
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+
+.sub13-head2 {
+    margin-top: 3 rem;
+    display: flex;
+    align-items: center;
+}
+
+.line8 {
+    margin-top: 0.9rem;
+    height: 0.01rem;
+    width: 2.1rem;
+    margin-right: 7.8rem;
+    transform: skewy(-43deg);
+    background-color: #dedede;
+}
+
+.gangsline {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
