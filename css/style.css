@@ -803,7 +803,7 @@ body {
 }
 
 .sub13-head2 {
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     margin-right: 1rem;
     display: flex;
     align-items: center;
@@ -813,4 +813,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+
+.img9 {
+    margin-left: 2.5rem;
+    height: 2.7rem;
+    width: 2.7rem;
+    border-radius: 50%;
 }
