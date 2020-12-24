@@ -734,7 +734,7 @@ body {
 .sub9-head2 {
     background-color: white;
     border: #edf6fc 0.01rem solid;
-    height: 28rem;
+    height: 22rem;
     width: 38rem;
     margin-top: 1rem;
 }
@@ -820,4 +820,35 @@ body {
     height: 2.7rem;
     width: 2.7rem;
     border-radius: 50%;
+}
+
+.sub15-head2 {
+    background-color: white;
+    border: #edf6fc 0.01rem solid;
+    height: 22rem;
+    width: 38rem;
+    margin-top: 1rem;
+}
+
+.p34 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: small;
+    font-weight: bolder;
+    margin-left: 1rem;
+}
+
+.img10 {
+    height: 2rem;
+    width: 6rem;
+    padding: 1rem;
+    border: #dedede 0.01rem solid;
+    border-radius: 2px;
+}
+
+.images {
+    margin-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
