@@ -823,7 +823,7 @@ body {
 }
 
 .sub15-head2 {
-    background-color: red;
+    background-color: white;
     border: #edf6fc 0.01rem solid;
     height: 18rem;
     width: 38rem;
@@ -898,4 +898,24 @@ body {
     padding: 0.5rem 1.7rem;
     display: flex;
     align-items: center;
+}
+
+.b4:hover {
+    cursor: pointer;
+    background-color: #eff6fc;
+}
+
+.line0 {
+    background-color: #dedede;
+    height: 0.1rem;
+    width: 100%;
+    margin-top: 85rem;
+    margin-bottom: 1rem;
+}
+
+.p36 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
 }
